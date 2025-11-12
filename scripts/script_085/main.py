@@ -1,1 +1,1 @@
-open('readonly.txt','r').write('x')
+open('readonly.txt','w').write('x')
